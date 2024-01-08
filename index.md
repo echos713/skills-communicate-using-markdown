@@ -22,3 +22,11 @@ var = "string"
 ```
 "```" initializes the block of code in the given language, and ends the code block. 
 Only the code is shown!
+
+# Step 4: Add a task list. 
+
+- [ ] This box check box is empty.
+- [X] This one is complete!
+- [ ] Look for jobs
+- [ ] Find an apartment
+- [ ] Learn French
