@@ -1,4 +1,4 @@
-# Here's a level-one header.
+# Step 1: Here's a level-one header.
 
 ###### Here's a level-six header; it's the smallest. 
 
@@ -15,3 +15,10 @@ Here's just some plain text.
 
 The exclamation initiates the image. Alt text goes in square brackets. Image link goes in parentheses. 
 No spaces between elements!
+
+# Step 3: Adding code
+```python3
+var = "string"
+```
+"```" initializes the block of code in the given language, and ends the code block. 
+Only the code is shown!
